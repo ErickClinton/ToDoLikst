@@ -1,0 +1,23 @@
+:root{
+    --gray-100: #e1e1e6;
+    --gray-300: #c4c4cc;
+    --gray-400: #8d8d99;
+    --gray-600: #323238;
+    --gray-700: #29292e;
+    --gray-back:#454545;
+    --purple:#8284FA;
+    --purpleDark:#5E60CE;
+
+    --blue:#4EA8DE;
+    --blueDark:#1E6F9F;
+
+
+    --redDanger:#E25858;
+}
+
+body{
+    background: var(--gray-back);
+
+
+}
+
