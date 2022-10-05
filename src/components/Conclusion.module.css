@@ -1,0 +1,22 @@
+.teste{
+    
+    padding:10rem 0;
+
+}
+
+.teste p{
+    display:inline;
+    margin-left:35rem;
+    position:relative;
+    bottom:10rem;
+    
+}
+
+.tasks{
+    color:var(--blue)
+}
+.conclusion{
+    position:relative;
+    right:5rem;
+    color:var(--purple)
+}
