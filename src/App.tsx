@@ -4,6 +4,7 @@ import {Header} from './components/Header'
 
 import styles from './App.module.css'
 import { NewTask } from './components/NewTask'
+import { Conclusion } from './components/Conclusion'
 export function App() {
 
 
@@ -12,8 +13,7 @@ export function App() {
       <Header />
       <div className={styles.wrapper}>
         <NewTask />
-        <p>Tarefas criadas</p>
-        <p>Concluídas</p>
+        <Conclusion />
       </div>
 
        
