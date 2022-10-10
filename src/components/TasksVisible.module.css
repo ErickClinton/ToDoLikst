@@ -1,0 +1,54 @@
+.teste{
+    
+    border:1px solid red;
+    color:white;
+}
+
+.container{
+
+    width:100%;
+    margin-left:35rem;
+    margin-top:10rem;
+    justify-content: space-between;
+    
+}
+
+.tasksAreConclusion{
+    
+    color:var(--blue)
+}
+.conclusion{
+    
+    margin-left:30rem;
+    color:var(--purple)
+}
+
+.tasksVisible{
+    height:100%;
+    widhth:100%;
+    border:1px solid blue;
+    margin-top:5rem;
+    margin-left:32rem;
+
+}
+
+.ListStyles{
+
+}
+
+.ListStyles p{
+    margin-left:2rem;
+    display:inline;
+}
+
+.ListStyles button{
+    border:none;
+    border-radius:10px;
+
+    
+}
+
+.ListStyles button p::before{
+    margin-top:10rem
+}
+

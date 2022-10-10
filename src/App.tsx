@@ -4,7 +4,8 @@ import {Header} from './components/Header'
 
 import styles from './App.module.css'
 import { NewTask } from './components/NewTask'
-import { Conclusion } from './components/Conclusion'
+
+import { TaskVisible } from './components/TasksVisible'
 export function App() {
 
 
@@ -13,7 +14,8 @@ export function App() {
       <Header />
       <div className={styles.wrapper}>
         <NewTask />
-        <Conclusion />
+        
+        <TaskVisible />
       </div>
 
        

@@ -1,5 +1,5 @@
 .header{
-    background:var(--gray-700);
+    background:var(--black);
     display:flex;
     position:relative;
     justify-content:center;
@@ -9,4 +9,5 @@
 .header img{
     height:1.5rem;
     padding:0.25rem;
+    
 }

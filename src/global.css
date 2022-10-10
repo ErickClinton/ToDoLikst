@@ -7,7 +7,7 @@
     --gray-back:#454545;
     --purple:#8284FA;
     --purpleDark:#5E60CE;
-
+    --black:#0d0d0d;
     --blue:#4EA8DE;
     --blueDark:#1E6F9F;
 
@@ -16,8 +16,9 @@
 }
 
 body{
-    background: var(--gray-back);
-
+    background-color: #1a1a1a;
+    padding:0;
+    margin:0;
 
 }
 
