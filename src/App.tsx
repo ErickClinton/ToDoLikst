@@ -6,6 +6,7 @@ import styles from './App.module.css'
 import { NewTask } from './components/NewTask'
 
 import { TaskVisible } from './components/TasksVisible'
+
 export function App() {
 
 
@@ -16,6 +17,7 @@ export function App() {
         <NewTask />
         
         <TaskVisible />
+
       </div>
 
        

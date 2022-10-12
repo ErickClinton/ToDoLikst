@@ -1,13 +1,13 @@
 .teste{
     
-    border:1px solid red;
+    
     color:white;
 }
 
 .container{
 
     width:100%;
-    margin-left:35rem;
+    margin-left:52rem;
     margin-top:10rem;
     justify-content: space-between;
     
@@ -26,14 +26,15 @@
 .tasksVisible{
     height:100%;
     widhth:100%;
-    border:1px solid blue;
+    
     margin-top:5rem;
     margin-left:32rem;
 
 }
 
-.ListStyles{
-
+.ListStyles {
+    
+    margin-left:18rem
 }
 
 .ListStyles p{
@@ -44,11 +45,11 @@
 .ListStyles button{
     border:none;
     border-radius:10px;
-
+    
     
 }
 
-.ListStyles button p::before{
-    margin-top:10rem
-}
+
+
+
 
