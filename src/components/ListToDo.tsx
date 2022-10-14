@@ -5,7 +5,7 @@ export function ListToDo(){
         <div>
             <div className={styles.listStyle}>
                 <button className={styles.CheckList}/>
-                <p>preciso fazer isso funcionar</p> 
+                <p>preciso fazer isso </p> 
                         
             </div>
             <button className={styles.buttonTrash}><Trash /></button> 
